@@ -29,7 +29,7 @@ class Program
                     string nombre = Console.ReadLine();
                     Console.Write("Ingrese el tipo de proyecto (Web/Movil): ");
                     string tipo = Console.ReadLine();
-                    Console.Write("Ingrese el estado del proyecto (Pendiente/EnProceso/Finalizado): ");
+                    Console.Write("Ingrese el estado del proyecto : ");
                     var estado = (EstadoProyecto)Enum.Parse(typeof(EstadoProyecto), Console.ReadLine());
                     Console.Write("Ingrese la cantidad de desarrolladores: ");
                     int desarrolladores = int.Parse(Console.ReadLine());
