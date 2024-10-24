@@ -1,0 +1,14 @@
+C:\Users\franc\OneDrive\Escritorio\TP2PROGRAMACION\atarico\grupo-TP2PROGRAMACION\TechInnovate\TechInnovate\bin\Debug\net6.0\TechInnovate.exe
+C:\Users\franc\OneDrive\Escritorio\TP2PROGRAMACION\atarico\grupo-TP2PROGRAMACION\TechInnovate\TechInnovate\bin\Debug\net6.0\TechInnovate.deps.json
+C:\Users\franc\OneDrive\Escritorio\TP2PROGRAMACION\atarico\grupo-TP2PROGRAMACION\TechInnovate\TechInnovate\bin\Debug\net6.0\TechInnovate.runtimeconfig.json
+C:\Users\franc\OneDrive\Escritorio\TP2PROGRAMACION\atarico\grupo-TP2PROGRAMACION\TechInnovate\TechInnovate\bin\Debug\net6.0\TechInnovate.dll
+C:\Users\franc\OneDrive\Escritorio\TP2PROGRAMACION\atarico\grupo-TP2PROGRAMACION\TechInnovate\TechInnovate\bin\Debug\net6.0\TechInnovate.pdb
+C:\Users\franc\OneDrive\Escritorio\TP2PROGRAMACION\atarico\grupo-TP2PROGRAMACION\TechInnovate\TechInnovate\obj\Debug\net6.0\TechInnovate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franc\OneDrive\Escritorio\TP2PROGRAMACION\atarico\grupo-TP2PROGRAMACION\TechInnovate\TechInnovate\obj\Debug\net6.0\TechInnovate.AssemblyInfoInputs.cache
+C:\Users\franc\OneDrive\Escritorio\TP2PROGRAMACION\atarico\grupo-TP2PROGRAMACION\TechInnovate\TechInnovate\obj\Debug\net6.0\TechInnovate.AssemblyInfo.cs
+C:\Users\franc\OneDrive\Escritorio\TP2PROGRAMACION\atarico\grupo-TP2PROGRAMACION\TechInnovate\TechInnovate\obj\Debug\net6.0\TechInnovate.csproj.CoreCompileInputs.cache
+C:\Users\franc\OneDrive\Escritorio\TP2PROGRAMACION\atarico\grupo-TP2PROGRAMACION\TechInnovate\TechInnovate\obj\Debug\net6.0\TechInnovate.dll
+C:\Users\franc\OneDrive\Escritorio\TP2PROGRAMACION\atarico\grupo-TP2PROGRAMACION\TechInnovate\TechInnovate\obj\Debug\net6.0\refint\TechInnovate.dll
+C:\Users\franc\OneDrive\Escritorio\TP2PROGRAMACION\atarico\grupo-TP2PROGRAMACION\TechInnovate\TechInnovate\obj\Debug\net6.0\TechInnovate.pdb
+C:\Users\franc\OneDrive\Escritorio\TP2PROGRAMACION\atarico\grupo-TP2PROGRAMACION\TechInnovate\TechInnovate\obj\Debug\net6.0\TechInnovate.genruntimeconfig.cache
+C:\Users\franc\OneDrive\Escritorio\TP2PROGRAMACION\atarico\grupo-TP2PROGRAMACION\TechInnovate\TechInnovate\obj\Debug\net6.0\ref\TechInnovate.dll
