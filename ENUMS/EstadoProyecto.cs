@@ -1,8 +1,14 @@
-public enum EstadoProyecto
+using System;
+
+
+namespace Enums
 {
-	Planificacion,
-	EnDesarrollo,
-	EnPruebas,
-	Completado,
-	Cancelado
+    public enum EstadoProyecto
+    {
+      Planificacion, 
+      EnDesarrollo,   
+      EnPruebas,      
+      Completado,     
+      Cancelado
+    }
 }

@@ -1,3 +1,5 @@
+using System;
+
 public abstract class Proyecto
 {
     public string Nombre { get; set; }

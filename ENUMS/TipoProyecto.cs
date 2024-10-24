@@ -1,5 +1,11 @@
-public enum TipoProyecto
+using System; 
+
+
+namespace Enums
 {
-    Web,
-    Movil
+    public enum TipoProyecto
+    {
+        Web,   
+        Movil   
+    }
 }
